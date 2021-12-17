@@ -1,0 +1,1117 @@
+Sep 27 09:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 09:02 : exception: Failed to open '/home/peter/.config/mpd/state': No such file or directory
+Sep 27 09:02 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Sep 27 09:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 09:03 : exception: Failed to open '/home/peter/.config/mpd/state': No such file or directory
+Sep 27 09:03 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Sep 27 09:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 09:35 : exception: Failed to open '/home/peter/.config/mpd/state': No such file or directory
+Sep 27 09:35 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Sep 27 09:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 09:36 : exception: Failed to open '/home/peter/.config/mpd/state': No such file or directory
+Sep 27 09:36 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Sep 27 09:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 09:37 : exception: Failed to open '/home/peter/.config/mpd/state': No such file or directory
+Sep 27 09:37 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Sep 27 09:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 09:43 : exception: Failed to open '/home/peter/.config/mpd/state': No such file or directory
+Sep 27 09:43 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Sep 27 09:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 09:48 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Sep 27 09:50 : avahi: Client Disconnected, will reconnect shortly
+Sep 27 09:50 : avahi: Client Disconnected, will reconnect shortly
+Sep 27 09:50 : avahi: Client Disconnected, will reconnect shortly
+Sep 27 09:50 : avahi: Client Disconnected, will reconnect shortly
+Sep 27 09:50 : avahi: Client Disconnected, will reconnect shortly
+Sep 27 09:50 : avahi: Client Disconnected, will reconnect shortly
+Sep 27 09:50 : avahi: Client Disconnected, will reconnect shortly
+Sep 27 09:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 09:51 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Sep 27 09:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 09:51 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Sep 27 09:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 09:52 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Sep 27 09:53 : client: [0] opened from 127.0.0.1:44074
+Sep 27 09:53 : update: added /04. 全ての人の魂の詩.flac
+Sep 27 09:53 : update: added Devil May Cry 5 Special Edition VERGIL Sound Selection/01 - Bury the Light.mp3
+Sep 27 09:53 : update: added Devil May Cry 5 Special Edition VERGIL Sound Selection/05  - BATTLE-1 (Vergil) Devil May Cry 3 Special Edition.mp3
+Sep 27 09:53 : update: added Devil May Cry 5 Special Edition VERGIL Sound Selection/06 - Beowulf Battle.mp3
+Sep 27 09:53 : update: added Devil May Cry 5 Special Edition VERGIL Sound Selection/04 - Bury the Light (Game Edit).mp3
+Sep 27 09:53 : update: added Devil May Cry 5 Special Edition VERGIL Sound Selection/02 - Devil May Cry 5 Special Edition Title Screen.mp3
+Sep 27 09:53 : update: added Devil May Cry 5 Special Edition VERGIL Sound Selection/07 - Let’s Just See (Devil May Cry 5 Special Edition Edit).mp3
+Sep 27 09:53 : update: added Devil May Cry 5 Special Edition VERGIL Sound Selection/03 - Wake Your Fury and Wait in Hell (Vergil Mission Start).mp3
+Sep 27 09:53 : update: added Devil May Cry 5 Special Edition VERGIL Sound Selection/08 - Devils Never Cry HR - HM Ver. (Devil May Cry 5 SE Edit).mp3
+Sep 27 09:53 : client: [0] closed
+Sep 27 09:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 09:56 : avahi: Failed to add service _mpd._tcp: Local name collision
+Sep 27 09:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 09:56 : avahi: Failed to add service _mpd._tcp: Local name collision
+Sep 27 09:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 09:58 : avahi: Failed to add service _mpd._tcp: Local name collision
+Sep 27 10:02 : client: [0] opened from 127.0.0.1:33224
+Sep 27 10:03 : client: [0] closed
+Sep 27 10:04 : client: [1] opened from 127.0.0.1:33254
+Sep 27 10:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 10:08 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Sep 27 10:08 : client: [0] opened from 127.0.0.1:33294
+Sep 27 10:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 10:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 10:13 : client: [1] opened from 127.0.0.1:33398
+Sep 27 10:13 : client: [2] opened from 127.0.0.1:33400
+Sep 27 10:13 : client: [2] closed
+Sep 27 10:13 : client: [3] opened from 127.0.0.1:33402
+Sep 27 10:13 : client: [3] closed
+Sep 27 10:13 : client: [4] opened from 127.0.0.1:33404
+Sep 27 10:13 : player: played "Devil May Cry 5 Special Edition VERGIL Sound Selection/01 - Bury the Light.mp3"
+Sep 27 10:13 : client: [4] closed
+Sep 27 10:13 : client: [5] opened from 127.0.0.1:33406
+Sep 27 10:13 : client: [5] closed
+Sep 27 10:14 : client: [6] opened from 127.0.0.1:33434
+Sep 27 10:14 : client: [6] closed
+Sep 27 10:15 : client: [7] opened from 127.0.0.1:33436
+Sep 27 10:15 : client: [7] closed
+Sep 27 10:19 : client: [8] opened from 127.0.0.1:33506
+Sep 27 10:19 : client: [8] closed
+Sep 27 10:19 : client: [9] opened from 127.0.0.1:33508
+Sep 27 10:19 : client: [9] closed
+Sep 27 10:19 : client: [10] opened from 127.0.0.1:33510
+Sep 27 10:19 : client: [10] closed
+Sep 27 10:19 : client: [11] opened from 127.0.0.1:33512
+Sep 27 10:19 : client: [11] closed
+Sep 27 10:22 : client: [1] closed
+Sep 27 10:23 : player: played "Devil May Cry 5 Special Edition VERGIL Sound Selection/01 - Bury the Light.mp3"
+Sep 27 10:25 : client: [12] opened from 127.0.0.1:33564
+Sep 27 10:29 : client: [12] closed
+Sep 27 10:29 : client: [13] opened from 127.0.0.1:33628
+Sep 27 10:30 : player: played "Devil May Cry 5 Special Edition VERGIL Sound Selection/08 - Devils Never Cry HR - HM Ver. (Devil May Cry 5 SE Edit).mp3"
+Sep 27 10:30 : client: [14] opened from 127.0.0.1:33630
+Sep 27 10:30 : client: [14] closed
+Sep 27 10:30 : client: [15] opened from 127.0.0.1:33632
+Sep 27 10:30 : client: [15] closed
+Sep 27 10:30 : client: [16] opened from 127.0.0.1:33634
+Sep 27 10:30 : client: [16] closed
+Sep 27 10:30 : client: [17] opened from 127.0.0.1:33636
+Sep 27 10:30 : client: [17] closed
+Sep 27 10:30 : client: [18] opened from 127.0.0.1:33638
+Sep 27 10:30 : client: [18] closed
+Sep 27 10:30 : client: [19] opened from 127.0.0.1:33640
+Sep 27 10:30 : player: played "Devil May Cry 5 Special Edition VERGIL Sound Selection/08 - Devils Never Cry HR - HM Ver. (Devil May Cry 5 SE Edit).mp3"
+Sep 27 10:30 : client: [19] closed
+Sep 27 10:30 : client: [20] opened from 127.0.0.1:33642
+Sep 27 10:30 : client: [20] closed
+Sep 27 10:30 : client: [21] opened from 127.0.0.1:33644
+Sep 27 10:30 : client: [21] closed
+Sep 27 10:31 : client: [22] opened from 127.0.0.1:33648
+Sep 27 10:31 : client: [22] closed
+Sep 27 10:31 : client: [23] opened from 127.0.0.1:33650
+Sep 27 10:31 : client: [23] closed
+Sep 27 10:31 : client: [24] opened from 127.0.0.1:33652
+Sep 27 10:31 : client: [24] closed
+Sep 27 10:31 : client: [25] opened from 127.0.0.1:33654
+Sep 27 10:31 : player: played "Devil May Cry 5 Special Edition VERGIL Sound Selection/08 - Devils Never Cry HR - HM Ver. (Devil May Cry 5 SE Edit).mp3"
+Sep 27 10:31 : client: [25] closed
+Sep 27 10:44 : player: played "Devil May Cry 5 Special Edition VERGIL Sound Selection/02 - Devil May Cry 5 Special Edition Title Screen.mp3"
+Sep 27 10:46 : player: played "Devil May Cry 5 Special Edition VERGIL Sound Selection/02 - Devil May Cry 5 Special Edition Title Screen.mp3"
+Sep 27 10:55 : client: [0] closed
+Sep 27 10:55 : client: [26] opened from 127.0.0.1:33976
+Sep 27 10:55 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/01 - Bury the Light.mp3
+Sep 27 10:55 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/05  - BATTLE-1 (Vergil) Devil May Cry 3 Special Edition.mp3
+Sep 27 10:55 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/06 - Beowulf Battle.mp3
+Sep 27 10:55 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/04 - Bury the Light (Game Edit).mp3
+Sep 27 10:55 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/02 - Devil May Cry 5 Special Edition Title Screen.mp3
+Sep 27 10:55 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/07 - Let’s Just See (Devil May Cry 5 Special Edition Edit).mp3
+Sep 27 10:55 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/03 - Wake Your Fury and Wait in Hell (Vergil Mission Start).mp3
+Sep 27 10:55 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/08 - Devils Never Cry HR - HM Ver. (Devil May Cry 5 SE Edit).mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/01 - Bury the Light.mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/05  - BATTLE-1 (Vergil) Devil May Cry 3 Special Edition.mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/06 - Beowulf Battle.mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/04 - Bury the Light (Game Edit).mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/02 - Devil May Cry 5 Special Edition Title Screen.mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/07 - Let’s Just See (Devil May Cry 5 Special Edition Edit).mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/03 - Wake Your Fury and Wait in Hell (Vergil Mission Start).mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/08 - Devils Never Cry HR - HM Ver. (Devil May Cry 5 SE Edit).mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/01 - Bury the Light.mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/05  - BATTLE-1 (Vergil) Devil May Cry 3 Special Edition.mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/06 - Beowulf Battle.mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/04 - Bury the Light (Game Edit).mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/02 - Devil May Cry 5 Special Edition Title Screen.mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/07 - Let’s Just See (Devil May Cry 5 Special Edition Edit).mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/03 - Wake Your Fury and Wait in Hell (Vergil Mission Start).mp3
+Sep 27 10:56 : update: updating Devil May Cry 5 Special Edition VERGIL Sound Selection/08 - Devils Never Cry HR - HM Ver. (Devil May Cry 5 SE Edit).mp3
+Sep 27 14:07 : client: [26] closed
+Sep 27 14:09 : client: [27] opened from 127.0.0.1:36152
+Sep 27 14:12 : client: [27] closed
+Sep 27 14:12 : client: [28] opened from 127.0.0.1:36180
+Sep 27 14:12 : client: [28] closed
+Sep 27 14:12 : client: [29] opened from 127.0.0.1:36182
+Sep 27 14:12 : client: [29] closed
+Sep 27 14:13 : client: [30] opened from 127.0.0.1:36184
+Sep 27 14:14 : client: [30] closed
+Sep 27 14:14 : client: [31] opened from 127.0.0.1:36232
+Sep 27 14:14 : client: [31] closed
+Sep 27 14:15 : client: [32] opened from 127.0.0.1:36238
+Sep 27 14:15 : client: [32] closed
+Sep 27 14:15 : client: [33] opened from 127.0.0.1:36254
+Sep 27 14:15 : client: [33] closed
+Sep 27 14:16 : client: [34] opened from 127.0.0.1:36260
+Sep 27 14:16 : client: [34] closed
+Sep 27 14:19 : client: [35] opened from 127.0.0.1:36316
+Sep 27 14:19 : client: [36] opened from 127.0.0.1:36318
+Sep 27 14:19 : client: [36] closed
+Sep 27 14:19 : client: [37] opened from 127.0.0.1:36320
+Sep 27 14:19 : client: [37] closed
+Sep 27 14:19 : client: [38] opened from 127.0.0.1:36322
+Sep 27 14:19 : client: [38] closed
+Sep 27 14:19 : client: [39] opened from 127.0.0.1:36324
+Sep 27 14:19 : client: [39] closed
+Sep 27 14:22 : client: [40] opened from 127.0.0.1:36384
+Sep 27 14:22 : client: [40] closed
+Sep 27 14:22 : client: [41] opened from 127.0.0.1:36386
+Sep 27 14:22 : client: [41] closed
+Sep 27 14:22 : client: [42] opened from 127.0.0.1:36388
+Sep 27 14:22 : client: [42] closed
+Sep 27 14:22 : client: [43] opened from 127.0.0.1:36390
+Sep 27 14:22 : client: [43] closed
+Sep 27 14:22 : client: [44] opened from 127.0.0.1:36392
+Sep 27 14:22 : client: [44] closed
+Sep 27 14:22 : client: [45] opened from 127.0.0.1:36394
+Sep 27 14:22 : client: [45] closed
+Sep 27 14:22 : client: [46] opened from 127.0.0.1:36396
+Sep 27 14:22 : client: [46] closed
+Sep 27 14:22 : client: [47] opened from 127.0.0.1:36398
+Sep 27 14:22 : client: [47] closed
+Sep 27 14:22 : client: [48] opened from 127.0.0.1:36400
+Sep 27 14:22 : client: [48] closed
+Sep 27 14:22 : client: [49] opened from 127.0.0.1:36402
+Sep 27 14:22 : client: [49] closed
+Sep 27 14:22 : client: [50] opened from 127.0.0.1:36404
+Sep 27 14:22 : client: [50] closed
+Sep 27 14:22 : client: [51] opened from 127.0.0.1:36406
+Sep 27 14:22 : client: [51] closed
+Sep 27 14:24 : client: [52] opened from 127.0.0.1:36430
+Sep 27 14:24 : client: [52] closed
+Sep 27 14:24 : client: [53] opened from 127.0.0.1:36432
+Sep 27 14:24 : client: [53] closed
+Sep 27 14:27 : client: [54] opened from 127.0.0.1:36448
+Sep 27 14:27 : client: [54] closed
+Sep 27 14:27 : client: [55] opened from 127.0.0.1:36450
+Sep 27 14:27 : client: [55] closed
+Sep 27 14:27 : client: [56] opened from 127.0.0.1:36452
+Sep 27 14:27 : client: [56] closed
+Sep 27 14:27 : client: [57] opened from 127.0.0.1:36454
+Sep 27 14:27 : client: [57] closed
+Sep 27 14:28 : client: [58] opened from 127.0.0.1:36462
+Sep 27 14:28 : client: [58] closed
+Sep 27 14:28 : client: [59] opened from 127.0.0.1:36466
+Sep 27 14:28 : client: [59] closed
+Sep 27 14:28 : client: [60] opened from 127.0.0.1:36468
+Sep 27 14:28 : client: [60] closed
+Sep 27 14:28 : client: [61] opened from 127.0.0.1:36470
+Sep 27 14:28 : client: [61] closed
+Sep 27 14:28 : client: [62] opened from 127.0.0.1:36472
+Sep 27 14:28 : client: [62] closed
+Sep 27 14:28 : client: [63] opened from 127.0.0.1:36474
+Sep 27 14:28 : client: [63] closed
+Sep 27 14:28 : client: [64] opened from 127.0.0.1:36476
+Sep 27 14:28 : client: [64] closed
+Sep 27 14:29 : client: [65] opened from 127.0.0.1:36496
+Sep 27 14:29 : client: [65] closed
+Sep 27 14:29 : client: [66] opened from 127.0.0.1:36498
+Sep 27 14:29 : client: [66] closed
+Sep 27 14:29 : client: [67] opened from 127.0.0.1:36500
+Sep 27 14:29 : client: [67] closed
+Sep 27 14:29 : client: [68] opened from 127.0.0.1:36502
+Sep 27 14:29 : client: [68] closed
+Sep 27 14:29 : client: [69] opened from 127.0.0.1:36504
+Sep 27 14:29 : client: [69] closed
+Sep 27 14:29 : client: [70] opened from 127.0.0.1:36506
+Sep 27 14:29 : client: [70] closed
+Sep 27 14:30 : client: [71] opened from 127.0.0.1:36508
+Sep 27 14:30 : client: [71] closed
+Sep 27 14:30 : client: [72] opened from 127.0.0.1:36510
+Sep 27 14:30 : client: [72] closed
+Sep 27 14:30 : client: [73] opened from 127.0.0.1:36512
+Sep 27 14:30 : client: [73] closed
+Sep 27 14:30 : client: [74] opened from 127.0.0.1:36514
+Sep 27 14:30 : client: [74] closed
+Sep 27 14:30 : client: [75] opened from 127.0.0.1:36516
+Sep 27 14:30 : client: [75] closed
+Sep 27 14:30 : client: [76] opened from 127.0.0.1:36518
+Sep 27 14:30 : client: [76] closed
+Sep 27 14:30 : client: [77] opened from 127.0.0.1:36526
+Sep 27 14:30 : client: [77] closed
+Sep 27 14:30 : client: [78] opened from 127.0.0.1:36528
+Sep 27 14:30 : client: [78] closed
+Sep 27 14:31 : client: [79] opened from 127.0.0.1:36530
+Sep 27 14:31 : client: [79] closed
+Sep 27 14:31 : client: [80] opened from 127.0.0.1:36532
+Sep 27 14:31 : client: [80] closed
+Sep 27 14:32 : client: [81] opened from 127.0.0.1:36534
+Sep 27 14:32 : client: [81] closed
+Sep 27 14:32 : client: [82] opened from 127.0.0.1:36536
+Sep 27 14:32 : client: [82] closed
+Sep 27 14:32 : client: [83] opened from 127.0.0.1:36538
+Sep 27 14:32 : client: [83] closed
+Sep 27 14:32 : client: [84] opened from 127.0.0.1:36540
+Sep 27 14:32 : client: [84] closed
+Sep 27 14:41 : client: [85] opened from 127.0.0.1:36728
+Sep 27 14:41 : client: [86] opened from 127.0.0.1:36730
+Sep 27 14:41 : client: [86] closed
+Sep 27 14:41 : client: [87] opened from 127.0.0.1:36732
+Sep 27 14:41 : client: [87] closed
+Sep 27 14:46 : client: [35] closed
+Sep 27 14:48 : client: [85] closed
+Sep 27 14:48 : client: [88] opened from 127.0.0.1:37100
+Sep 27 14:49 : client: [88] closed
+Sep 27 14:49 : client: [89] opened from 127.0.0.1:37368
+Sep 29 08:46 : client: [13] closed
+Sep 29 08:46 : client: [90] opened from 127.0.0.1:44186
+Sep 29 09:01 : client: [89] closed
+Sep 29 09:01 : client: [91] opened from 127.0.0.1:44454
+Sep 29 09:01 : client: [92] opened from 127.0.0.1:44456
+Sep 29 09:01 : client: [92] closed
+Sep 29 09:01 : client: [93] opened from 127.0.0.1:44458
+Sep 29 09:01 : client: [93] closed
+Sep 29 09:02 : client: [91] closed
+Sep 29 09:02 : client: [94] opened from 127.0.0.1:44466
+Sep 29 09:10 : client: [94] closed
+Sep 29 09:10 : client: [95] opened from 127.0.0.1:39760
+Sep 29 09:10 : client: [96] opened from 127.0.0.1:39762
+Sep 29 09:10 : client: [96] closed
+Sep 29 09:10 : client: [97] opened from 127.0.0.1:39764
+Sep 29 09:10 : client: [97] closed
+Sep 29 09:10 : client: [98] opened from 127.0.0.1:39766
+Sep 29 09:10 : client: [98] closed
+Sep 29 09:10 : client: [99] opened from 127.0.0.1:39768
+Sep 29 09:10 : client: [99] closed
+Sep 29 09:11 : client: [100] opened from 127.0.0.1:39806
+Sep 29 09:11 : client: [100] closed
+Sep 29 09:11 : client: [101] opened from 127.0.0.1:39808
+Sep 29 09:11 : client: [101] closed
+Sep 29 09:12 : client: [102] opened from 127.0.0.1:39816
+Sep 29 09:12 : client: [102] closed
+Sep 29 09:12 : client: [103] opened from 127.0.0.1:39818
+Sep 29 09:12 : client: [103] closed
+Sep 29 09:12 : client: [104] opened from 127.0.0.1:39820
+Sep 29 09:12 : client: [104] closed
+Sep 29 09:12 : client: [105] opened from 127.0.0.1:39822
+Sep 29 09:12 : client: [105] closed
+Sep 29 09:13 : client: [106] opened from 127.0.0.1:39824
+Sep 29 09:13 : client: [106] closed
+Sep 29 09:13 : client: [107] opened from 127.0.0.1:39826
+Sep 29 09:13 : client: [107] closed
+Sep 29 09:21 : client: [108] opened from 127.0.0.1:32866
+Sep 29 09:21 : client: [108] closed
+Sep 29 09:21 : client: [109] opened from 127.0.0.1:32868
+Sep 29 09:21 : client: [109] closed
+Sep 29 09:21 : client: [110] opened from 127.0.0.1:32870
+Sep 29 09:21 : client: [110] closed
+Sep 29 09:21 : client: [111] opened from 127.0.0.1:32874
+Sep 29 09:21 : client: [111] closed
+Sep 29 09:21 : client: [112] opened from 127.0.0.1:32876
+Sep 29 09:21 : client: [112] closed
+Sep 29 09:21 : client: [113] opened from 127.0.0.1:32888
+Sep 29 09:21 : client: [113] closed
+Sep 29 09:21 : client: [114] opened from 127.0.0.1:32890
+Sep 29 09:21 : client: [114] closed
+Sep 29 09:21 : client: [115] opened from 127.0.0.1:32892
+Sep 29 09:21 : client: [115] closed
+Sep 29 09:21 : client: [116] opened from 127.0.0.1:32894
+Sep 29 09:21 : client: [116] closed
+Sep 29 09:21 : client: [117] opened from 127.0.0.1:32896
+Sep 29 09:21 : client: [117] closed
+Sep 29 09:21 : client: [118] opened from 127.0.0.1:32898
+Sep 29 09:21 : client: [118] closed
+Sep 29 09:21 : client: [119] opened from 127.0.0.1:32902
+Sep 29 09:21 : client: [119] closed
+Sep 29 09:21 : client: [120] opened from 127.0.0.1:32904
+Sep 29 09:21 : client: [120] closed
+Sep 29 09:21 : client: [121] opened from 127.0.0.1:32906
+Sep 29 09:21 : client: [121] closed
+Sep 29 09:21 : client: [122] opened from 127.0.0.1:32908
+Sep 29 09:21 : client: [122] closed
+Sep 29 09:21 : client: [123] opened from 127.0.0.1:32910
+Sep 29 09:21 : client: [123] closed
+Sep 29 09:21 : client: [124] opened from 127.0.0.1:32912
+Sep 29 09:21 : client: [124] closed
+Sep 29 09:21 : client: [125] opened from 127.0.0.1:32914
+Sep 29 09:21 : client: [125] closed
+Sep 29 09:21 : client: [126] opened from 127.0.0.1:32916
+Sep 29 09:21 : client: [126] closed
+Sep 29 09:21 : client: [127] opened from 127.0.0.1:32920
+Sep 29 09:21 : client: [127] closed
+Sep 29 09:21 : client: [128] opened from 127.0.0.1:32922
+Sep 29 09:21 : client: [128] closed
+Sep 29 09:21 : client: [129] opened from 127.0.0.1:32924
+Sep 29 09:21 : client: [129] closed
+Sep 29 09:21 : client: [130] opened from 127.0.0.1:32926
+Sep 29 09:21 : client: [130] closed
+Sep 29 09:21 : client: [131] opened from 127.0.0.1:32928
+Sep 29 09:21 : client: [131] closed
+Sep 29 09:21 : client: [132] opened from 127.0.0.1:32930
+Sep 29 09:21 : client: [132] closed
+Sep 29 09:21 : client: [133] opened from 127.0.0.1:32932
+Sep 29 09:21 : client: [133] closed
+Sep 29 09:21 : client: [134] opened from 127.0.0.1:32934
+Sep 29 09:21 : client: [134] closed
+Sep 29 09:21 : client: [135] opened from 127.0.0.1:32940
+Sep 29 09:21 : client: [135] closed
+Sep 29 09:21 : client: [136] opened from 127.0.0.1:32942
+Sep 29 09:22 : client: [136] closed
+Sep 29 09:22 : client: [137] opened from 127.0.0.1:32950
+Sep 29 09:22 : client: [137] closed
+Sep 29 09:22 : client: [138] opened from 127.0.0.1:32952
+Sep 29 09:22 : client: [138] closed
+Sep 29 09:22 : client: [139] opened from 127.0.0.1:32954
+Sep 29 09:22 : client: [139] closed
+Sep 29 09:22 : client: [140] opened from 127.0.0.1:32956
+Sep 29 09:22 : client: [140] closed
+Sep 29 09:22 : client: [141] opened from 127.0.0.1:32958
+Sep 29 09:22 : client: [141] closed
+Sep 29 09:22 : client: [142] opened from 127.0.0.1:32960
+Sep 29 09:22 : client: [142] closed
+Sep 29 09:22 : client: [143] opened from 127.0.0.1:32966
+Sep 29 09:22 : client: [143] closed
+Sep 29 09:22 : client: [144] opened from 127.0.0.1:32968
+Sep 29 09:22 : client: [144] closed
+Sep 29 09:22 : client: [145] opened from 127.0.0.1:32970
+Sep 29 09:22 : client: [145] closed
+Sep 29 09:22 : client: [146] opened from 127.0.0.1:32972
+Sep 29 09:22 : client: [95] closed
+Sep 29 09:22 : client: [147] opened from 127.0.0.1:32974
+Sep 29 09:22 : client: [147] closed
+Sep 29 09:22 : client: [148] opened from 127.0.0.1:32976
+Sep 29 09:22 : client: [146] closed
+Sep 29 09:22 : client: [149] opened from 127.0.0.1:32978
+Sep 29 09:22 : client: [149] closed
+Sep 29 09:22 : client: [150] opened from 127.0.0.1:32980
+Sep 29 09:22 : client: [150] closed
+Sep 29 09:22 : client: [151] opened from 127.0.0.1:32982
+Sep 29 09:22 : client: [151] closed
+Sep 29 09:22 : client: [152] opened from 127.0.0.1:32984
+Sep 29 09:22 : client: [152] closed
+Sep 29 09:22 : client: [153] opened from 127.0.0.1:32990
+Sep 29 09:22 : client: [153] closed
+Sep 29 09:22 : client: [154] opened from 127.0.0.1:32992
+Sep 29 09:22 : client: [154] closed
+Sep 29 09:22 : client: [155] opened from 127.0.0.1:32994
+Sep 29 09:22 : client: [155] closed
+Sep 29 09:22 : client: [156] opened from 127.0.0.1:32996
+Sep 29 09:22 : client: [156] closed
+Sep 29 09:22 : client: [157] opened from 127.0.0.1:32998
+Sep 29 09:22 : client: [157] closed
+Sep 29 09:22 : client: [158] opened from 127.0.0.1:33000
+Sep 29 09:22 : client: [158] closed
+Sep 29 09:22 : client: [159] opened from 127.0.0.1:33002
+Sep 29 09:22 : client: [159] closed
+Sep 29 09:22 : client: [160] opened from 127.0.0.1:33008
+Sep 29 09:22 : client: [160] closed
+Sep 29 09:22 : client: [161] opened from 127.0.0.1:33010
+Sep 29 09:23 : client: [161] closed
+Sep 29 09:23 : client: [162] opened from 127.0.0.1:33012
+Sep 29 09:23 : client: [162] closed
+Sep 29 09:23 : client: [163] opened from 127.0.0.1:33014
+Sep 29 09:23 : client: [163] closed
+Sep 29 09:23 : client: [164] opened from 127.0.0.1:33016
+Sep 29 09:23 : client: [164] closed
+Sep 29 09:23 : client: [165] opened from 127.0.0.1:33018
+Sep 29 09:23 : client: [165] closed
+Sep 29 09:23 : client: [166] opened from 127.0.0.1:33024
+Sep 29 09:23 : client: [166] closed
+Sep 29 09:23 : client: [167] opened from 127.0.0.1:33026
+Sep 29 09:23 : client: [167] closed
+Sep 29 09:23 : client: [168] opened from 127.0.0.1:33028
+Sep 29 09:23 : client: [168] closed
+Sep 29 09:23 : client: [169] opened from 127.0.0.1:33030
+Sep 29 09:23 : client: [169] closed
+Sep 29 09:23 : client: [170] opened from 127.0.0.1:33032
+Sep 29 09:23 : client: [170] closed
+Sep 29 09:23 : client: [171] opened from 127.0.0.1:33034
+Sep 29 09:23 : client: [171] closed
+Sep 29 09:23 : client: [172] opened from 127.0.0.1:33040
+Sep 29 09:23 : client: [172] closed
+Sep 29 09:23 : client: [173] opened from 127.0.0.1:33042
+Sep 29 09:23 : client: [173] closed
+Sep 29 09:23 : client: [174] opened from 127.0.0.1:33044
+Sep 29 09:23 : client: [174] closed
+Sep 29 09:23 : client: [175] opened from 127.0.0.1:33046
+Sep 29 09:24 : client: [175] closed
+Sep 29 09:26 : client: [176] opened from 127.0.0.1:33086
+Sep 29 09:26 : client: [176] closed
+Sep 29 09:26 : client: [148] closed
+Sep 29 09:26 : client: [177] opened from 127.0.0.1:33090
+Sep 29 09:26 : client: [178] opened from 127.0.0.1:33092
+Sep 29 09:26 : client: [178] closed
+Sep 29 09:26 : client: [179] opened from 127.0.0.1:33094
+Sep 29 09:26 : client: [179] closed
+Sep 29 09:26 : client: [180] opened from 127.0.0.1:33096
+Sep 29 09:26 : client: [180] closed
+Sep 29 09:26 : client: [181] opened from 127.0.0.1:33098
+Sep 29 09:26 : client: [181] closed
+Sep 29 09:26 : client: [182] opened from 127.0.0.1:33100
+Sep 29 09:26 : client: [182] closed
+Sep 29 09:26 : client: [183] opened from 127.0.0.1:33102
+Sep 29 09:26 : client: [183] closed
+Sep 29 09:29 : client: [177] closed
+Sep 29 09:29 : client: [184] opened from 127.0.0.1:33130
+Sep 29 09:29 : client: [185] opened from 127.0.0.1:33132
+Sep 29 09:29 : client: [185] closed
+Sep 29 09:29 : client: [186] opened from 127.0.0.1:33134
+Sep 29 09:29 : client: [186] closed
+Sep 29 09:29 : client: [187] opened from 127.0.0.1:33136
+Sep 29 09:29 : client: [187] closed
+Sep 29 09:29 : client: [188] opened from 127.0.0.1:33138
+Sep 29 09:29 : client: [188] closed
+Sep 29 09:29 : client: [189] opened from 127.0.0.1:33140
+Sep 29 09:29 : client: [189] closed
+Sep 29 09:29 : client: [190] opened from 127.0.0.1:33142
+Sep 29 09:29 : client: [190] closed
+Sep 29 09:29 : client: [184] closed
+Sep 29 09:29 : client: [191] opened from 127.0.0.1:33144
+Sep 29 09:29 : client: [191] closed
+Sep 29 09:29 : client: [192] opened from 127.0.0.1:33146
+Sep 29 09:41 : client: [90] closed
+Sep 29 09:42 : client: [193] opened from 127.0.0.1:33514
+Sep 29 10:00 : client: [194] opened from 127.0.0.1:33822
+Sep 29 10:03 : client: [194] closed
+Sep 29 10:16 : client: [193] closed
+Sep 29 10:16 : client: [195] opened from 127.0.0.1:34294
+Sep 29 12:33 : client: [196] opened from 127.0.0.1:36868
+Sep 29 12:33 : client: [196] closed
+Sep 29 12:33 : client: [197] opened from 127.0.0.1:36870
+Sep 29 12:33 : client: [197] closed
+Sep 29 13:43 : client: [195] closed
+Sep 29 13:43 : client: [198] opened from 127.0.0.1:38146
+Sep 29 13:44 : client: [198] closed
+Sep 29 13:44 : client: [199] opened from 127.0.0.1:38148
+Sep 29 13:46 : client: [199] closed
+Sep 29 13:46 : client: [200] opened from 127.0.0.1:38188
+Sep 29 13:46 : client: [201] opened from 127.0.0.1:38190
+Sep 29 13:46 : client: [201] closed
+Sep 29 13:46 : client: [202] opened from 127.0.0.1:38192
+Sep 29 13:46 : client: [202] closed
+Sep 29 13:46 : client: [203] opened from 127.0.0.1:38194
+Sep 29 13:46 : client: [203] closed
+Sep 29 13:46 : client: [204] opened from 127.0.0.1:38196
+Sep 29 13:46 : player: played "04. 全ての人の魂の詩.flac"
+Sep 29 13:46 : client: [204] closed
+Sep 29 13:46 : client: [205] opened from 127.0.0.1:38198
+Sep 29 13:46 : client: [205] closed
+Sep 29 13:46 : client: [206] opened from 127.0.0.1:38200
+Sep 29 13:46 : player: played "04. 全ての人の魂の詩.flac"
+Sep 29 13:46 : client: [206] closed
+Sep 29 13:46 : client: [207] opened from 127.0.0.1:38202
+Sep 29 13:46 : client: [207] closed
+Sep 29 13:46 : client: [208] opened from 127.0.0.1:38204
+Sep 29 13:46 : player: played "04. 全ての人の魂の詩.flac"
+Sep 29 13:46 : client: [208] closed
+Sep 29 13:48 : client: [200] closed
+Sep 29 13:48 : client: [209] opened from 127.0.0.1:38298
+Sep 29 13:48 : client: [209] closed
+Sep 29 13:48 : client: [210] opened from 127.0.0.1:38304
+Sep 29 13:49 : client: [211] opened from 127.0.0.1:38306
+Sep 29 13:49 : client: [211] closed
+Sep 29 13:49 : client: [212] opened from 127.0.0.1:38308
+Sep 29 13:49 : client: [212] closed
+Sep 29 13:49 : client: [213] opened from 127.0.0.1:38310
+Sep 29 13:49 : player: played "04. 全ての人の魂の詩.flac"
+Sep 29 13:49 : client: [213] closed
+Sep 29 13:49 : client: [210] closed
+Sep 29 13:49 : client: [214] opened from 127.0.0.1:38312
+Sep 29 13:50 : client: [214] closed
+Sep 29 13:50 : client: [215] opened from 127.0.0.1:38314
+Sep 29 13:51 : client: [216] opened from 127.0.0.1:38326
+Sep 29 13:51 : client: [216] closed
+Sep 29 13:51 : client: [217] opened from 127.0.0.1:38328
+Sep 29 13:51 : client: [217] closed
+Sep 29 13:51 : client: [218] opened from 127.0.0.1:38330
+Sep 29 13:51 : player: played "04. 全ての人の魂の詩.flac"
+Sep 29 13:51 : client: [218] closed
+Sep 29 14:05 : client: [192] closed
+Sep 29 14:09 : client: [219] opened from 127.0.0.1:38508
+Sep 29 14:09 : client: [219] closed
+Sep 29 14:50 : client: [215] closed
+Sep 29 14:50 : avahi: Client Disconnected, will reconnect shortly
+Sep 30 08:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 08:32 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Sep 30 08:38 : client: [0] opened from 127.0.0.1:56452
+Sep 30 08:38 : client: [1] opened from 127.0.0.1:56454
+Sep 30 08:38 : client: [1] closed
+Sep 30 08:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 08:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 08:38 : client: [2] opened from 127.0.0.1:56456
+Sep 30 08:38 : client: [2] closed
+Sep 30 08:38 : client: [3] opened from 127.0.0.1:56458
+Sep 30 08:38 : player: played "04. 全ての人の魂の詩.flac"
+Sep 30 08:38 : client: [3] closed
+Sep 30 09:51 : client: [4] opened from 127.0.0.1:57886
+Sep 30 09:51 : update: added Darkstar/Civic Jams/1-09 Blurred.mp3
+Sep 30 09:51 : update: added Darkstar/Civic Jams/1-05 Wolf.mp3
+Sep 30 09:51 : update: added Darkstar/Civic Jams/1-08 Text.mp3
+Sep 30 09:51 : update: added Darkstar/Civic Jams/1-06 Loon.mp3
+Sep 30 09:51 : update: added Darkstar/Civic Jams/1-01 Forest.mp3
+Sep 30 09:51 : update: added Darkstar/Civic Jams/1-02 Jam.mp3
+Sep 30 09:51 : update: added Darkstar/Civic Jams/1-07 Tuesday.mp3
+Sep 30 09:51 : update: added Darkstar/Civic Jams/1-04 30 (feat. Laura Groves).mp3
+Sep 30 09:51 : update: added Darkstar/Civic Jams/1-03 1001.mp3
+Sep 30 09:51 : update: added Oliver Patrice Weder - The Pool Project - mp3/The Pool Project-008-Oliver Patrice Weder-Distant Island.mp3
+Sep 30 09:51 : update: added Oliver Patrice Weder - The Pool Project - mp3/The Pool Project-002-Oliver Patrice Weder-Lala.mp3
+Sep 30 09:51 : update: added Oliver Patrice Weder - The Pool Project - mp3/The Pool Project-004-Oliver Patrice Weder-Margarita.mp3
+Sep 30 09:51 : update: added Oliver Patrice Weder - The Pool Project - mp3/The Pool Project-006-Oliver Patrice Weder-Peter.mp3
+Sep 30 09:51 : update: added Oliver Patrice Weder - The Pool Project - mp3/The Pool Project-007-Oliver Patrice Weder-Togetherness.mp3
+Sep 30 09:51 : update: added Oliver Patrice Weder - The Pool Project - mp3/The Pool Project-005-Oliver Patrice Weder-Forest Glade.mp3
+Sep 30 09:51 : update: added Oliver Patrice Weder - The Pool Project - mp3/The Pool Project-003-Oliver Patrice Weder-Encina.mp3
+Sep 30 09:51 : update: added Oliver Patrice Weder - The Pool Project - mp3/The Pool Project-001-Oliver Patrice Weder-Rainbow Fish.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/07 プロローグ　『魔界塔士 Sa・Ga』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/08 船　『ファイナルファンタジー』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/15 王宮のテーマ　『聖剣伝説～ファイナルファンタジー外伝～』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/12 エピローグ　『魔界塔士 Sa・Ga』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/06 怒闘　『魔界塔士 Sa・Ga』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/05 ディープ　『時空の覇者 Sa・Ga3』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/10 プレリュード　『ファイナルファンタジー』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/02 Rising Sun　『聖剣伝説～ファイナルファンタジー外伝～』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/11 安らぎの大地　『Sa・Ga2 秘宝伝説』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/14 コーネリア城　『ファイナルファンタジー』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/13 メイン・テーマ (Clean ver.)　『ファイナルファンタジー』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/04 街のテーマ　『魔界塔士 Sa・Ga』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/01 フィナーレ　『ファイナルファンタジーII』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/03 チョコボのテーマ　『ファイナルファンタジーII』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX/09 異郷の町　『時空の覇者 Sa・Ga3』より.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX JAZZ -FINAL FANTASY VII-/02 Shinra, Inc..mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX JAZZ -FINAL FANTASY VII-/09 JENOVA.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX JAZZ -FINAL FANTASY VII-/08 Tifa's Theme.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX JAZZ -FINAL FANTASY VII-/07 Fight On!.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX JAZZ -FINAL FANTASY VII-/06 Cait Sith's Theme.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX JAZZ -FINAL FANTASY VII-/12 Main Theme of FINAL FANTASY VII.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX JAZZ -FINAL FANTASY VII-/11 One-Winged Angel.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX JAZZ -FINAL FANTASY VII-/01 Opening - Bombing Mission.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX JAZZ -FINAL FANTASY VII-/10 Cosmo Canyon.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX JAZZ -FINAL FANTASY VII-/05 The Chase.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX JAZZ -FINAL FANTASY VII-/03 Aerith's Theme.mp3
+Sep 30 09:51 : update: added SQUARE ENIX MUSIC/SQUARE ENIX JAZZ -FINAL FANTASY VII-/04 On Our Way.mp3
+Sep 30 09:51 : update: added FINAL FANTASY VII/FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS/1-08 Acoustic 亡霊の悪戯 ～ グロウガイスト.mp3
+Sep 30 09:51 : update: added FINAL FANTASY VII/FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS/1-07 Acoustic 真夜中のまちぶせ ～ 陥没道路.mp3
+Sep 30 09:51 : update: added FINAL FANTASY VII/FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS/1-06 Acoustic エアリスのテーマ -ただいま-.mp3
+Sep 30 09:51 : update: added FINAL FANTASY VII/FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS/1-09 Acoustic J-E-N-O-V-A -胎動-.mp3
+Sep 30 09:51 : update: added FINAL FANTASY VII/FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS/1-10 Acoustic 片翼の天使 -再生-.mp3
+Sep 30 09:51 : update: added FINAL FANTASY VII/FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS/1-03 Acoustic ジェシーのテーマ.mp3
+Sep 30 09:51 : update: added FINAL FANTASY VII/FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS/1-04 Acoustic タークスのテーマ.mp3
+Sep 30 09:51 : update: added FINAL FANTASY VII/FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS/1-01 Acoustic プレリュード  -再会- ～ 爆破ミッション.mp3
+Sep 30 09:51 : update: added FINAL FANTASY VII/FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS/1-05 Acoustic 更に闘う者達 ～ 闘う者達.mp3
+Sep 30 09:51 : update: added FINAL FANTASY VII/FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS/1-02 Acoustic ティファのテーマ -セブンスヘブン- ～ FFVIIメインテーマ -七番街スラム-.mp3
+Sep 30 09:51 : update: added Alec Holowka/Lost Constellation/07 We Will Meet Again.mp3
+Sep 30 09:51 : update: added Alec Holowka/Lost Constellation/03 Snowmanship.mp3
+Sep 30 09:51 : update: added Alec Holowka/Lost Constellation/06 Goodbye, Astronomer.mp3
+Sep 30 09:51 : update: added Alec Holowka/Lost Constellation/05 Huncher Heist.mp3
+Sep 30 09:51 : update: added Alec Holowka/Lost Constellation/01 Longest Night.mp3
+Sep 30 09:51 : update: added Alec Holowka/Lost Constellation/08 Asscat.mp3
+Sep 30 09:51 : update: added Alec Holowka/Lost Constellation/02 Tundra.mp3
+Sep 30 09:51 : update: added Alec Holowka/Lost Constellation/04 Lost Woods.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/42 The Hole At The Center Of Everything.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/34 Lori M..mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/20 Donut Wolf.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/28 Graveyard Investigations.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/15 Angus' Story.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/50 Space Dragon.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/36 Thryy Wyrd Tyyns.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/05 Pumpkin Head Guy.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/08 Microfiche.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/37 Ghost Hunt.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/14 Angus Climbs the Hill.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/10 Church Hill.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/21 I'm Going to Break Something.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/39 Urban Prairie.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/53 Cycles III.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/16 God .mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/31 Ancient History.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/25 Proximity.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/03 Mae's House II.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/09 Poetry Society.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/27 The Husker Bee Ballroom.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/32 The Map Room.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/02 Waking Up II.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/52 Germ's Trampoline.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/04 The Long Fall.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/51 Tick Tock.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/29 Little Joe.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/45 Aftermath.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/23 Cycles II.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/30 The Historical Society.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/06 Investigation!.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/47 Snow.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/11 Church of The First Coalescence.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/26 The Bridge.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/13 Astral Fish.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/38 Run!.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/41 Shapes.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/01 Trailer II.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/49 End Credits.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/22 Dance Party.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/24 Finding Bea.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/44 Climb.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/35 Skate Wolf.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/18 Rainy Day.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/40 Sanctuary.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/12 Sleeping II.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/48 Early Longest Night.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/17 Unknowable.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/33 Someone's Coming.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/46 Vignettes.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/43 Eide Fight.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/19 Car Radio.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 2  Hold Onto Anything/07 Library Investigations.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/23 Dusk Stars.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/35 MaeBea.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/42 Miss Miranda.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/03 Garbo and Malloy.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/20 Durkillesburg.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/54 Grocery Shopping.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/60 Harfest.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/40 Crimes II.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/05 Playground.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/15 The Arm.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/39 Robot Builder.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/18 Angus at Home.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/37 Crimes.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/51 Knife Fight Victory.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/04 Fiasco Fox Vending Machine.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/38 Sharkle Dream.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/21 Mae's House.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/28 Food Donkey.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/08 Waking Up.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/29 Robot Heads.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/47 Batter Up.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/56 Mrs Santello's Old Records.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/52 On the Hunt.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/14 Where's Casey .mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/49 Knife Fight.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/22 Possum Springs.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/19 Ol' Pickaxe.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/07 Sleeping.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/57 Outskirts.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/02 Title.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/53 Gregg's Woods.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/61 What !.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/44 Clanky Must Die.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/50 Knife Fight Defeat.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/34 Underwater Waltz.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/45 Fireflies on the Porch.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/33 Witch Dagger.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/24 Pierogies in the Dark.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/43 Clanky Must Live.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/10 Back to the Holler.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/59 Astral Train.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/11 Gregg.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/36 Astral Alley.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/17 The Intercom.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/06 Come Home.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/26 Weird Autumn.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/27 Gregg!.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/13 Die Anywhere Else.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/09 Home Again.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/01 Trailer.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/55 Dinner at Bea's.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/58 Mallard's Tomb.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/31 Bea!.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/62 Eide.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/30 Pierogi Toss.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/25 Shoplifting.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/48 Cycles.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/12 Snack Falcon.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/46 Astral Coal Town.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/32 The Fort Lucenne Mall.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/41 Nighttime Housecall.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 1  At The End Of Everything/16 Video Outpost  Too .mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 3  Demontower/04 Boss.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 3  Demontower/11 Level 9  Cemetery Grounds.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 3  Demontower/08 Level 6  Church.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 3  Demontower/06 Level 4  Skellie City.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 3  Demontower/03 Level 2  The Cellar.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 3  Demontower/09 Level 7  Rivers of Blood.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 3  Demontower/05 Level 3  Skellie Outskirts.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 3  Demontower/02 Level 1  The Hole.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 3  Demontower/10 Level 8  Leafy Graves.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 3  Demontower/07 Level 5  Library.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 3  Demontower/12 The Blood Thief.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 3  Demontower/01 Title.mp3
+Sep 30 09:51 : update: added Alec Holowka/Night in the Woods Vol. 3  Demontower/13 Ending.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/13 Your Best Nightmare ~ Finale.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/01 Ruins.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/04 Sans.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/02 Enemy Approaching ~ Stronger Monsters.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/09 Temmie Village ~ Tem Shop.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/11 Metal Crusher.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/05 Mysterious Place.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/08 Spider Dance.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/15 Undertale.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/03 Heartache.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/06 Snowdin Town.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/07 Dating Start!.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/14 Last Goodbye.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/10 Battle Against a True Hero.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/12 Oh! Piano.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections 2/16 Chill.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/14 Hopes & Dreams ～ SAVE The World ～ His Theme.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/06 Uwa!! So Piano.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/07 Bonetrousle.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/08 Snowy.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/12 Asgore.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/10 Death by Glamour.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/05 Determination.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/03 It's Raining Somewhere Else.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/15 Reunited.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/13 Megalovania.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/02 Spear of Justice.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/01 Fallen Down.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/09 Alphys.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/04 Dummy!.mp3
+Sep 30 09:51 : update: added David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/11 Another Medium.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Tarkus/02 Tarkus - Stones Of Years.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Tarkus/01 Tarkus - Eruption.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Tarkus/03 Tarkus - Iconoclast.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Tarkus/06 Tarkus - Battlefield.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Tarkus/05 Tarkus - Manticore.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Tarkus/09 Bitches Crystal.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Tarkus/10 The Only Way.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Tarkus/13 Are You Ready Eddy .mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Tarkus/04 Tarkus - Mass.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Tarkus/08 Jeremy Bender.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Tarkus/07 Tarkus - Aquatarkus.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Tarkus/11 Infinite Space.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Tarkus/12 A Time And A Place.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Pictures At An Exhibition/03 Promenade (2).mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Pictures At An Exhibition/01 Promenade.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Pictures At An Exhibition/06 Blues Variation.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Pictures At An Exhibition/05 The Old Castle.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Pictures At An Exhibition/02 The Gnome.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Pictures At An Exhibition/09 The Curse of Baba Yaga.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Pictures At An Exhibition/10 The Hut of Baba Yaga (2).mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Pictures At An Exhibition/11 The Great Gates of Kiev - The End.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Pictures At An Exhibition/07 Promenade (3).mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Pictures At An Exhibition/12 Nutrocker.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Pictures At An Exhibition/08 The Hut of Baba Yaga.mp3
+Sep 30 09:51 : update: added Emerson, Lake & Palmer/Pictures At An Exhibition/04 The Sage.mp3
+Sep 30 09:51 : update: added Muse/Black Holes And Revelations/11 Knights Of Cydonia.mp3
+Sep 30 09:51 : update: added Muse/Black Holes And Revelations/03 Supermassive Black Hole.mp3
+Sep 30 09:51 : update: added Muse/Black Holes And Revelations/10 Hoodoo.mp3
+Sep 30 09:51 : update: added Muse/Black Holes And Revelations/01 Take A Bow.mp3
+Sep 30 09:51 : update: added Muse/Black Holes And Revelations/07 Assassin.mp3
+Sep 30 09:51 : update: added Muse/Black Holes And Revelations/05 Soldier's Poem.mp3
+Sep 30 09:51 : update: added Muse/Black Holes And Revelations/08 Exo-Politics.mp3
+Sep 30 09:51 : update: added Muse/Black Holes And Revelations/09 City Of Delusion.mp3
+Sep 30 09:51 : update: added Muse/Black Holes And Revelations/02 Starlight.mp3
+Sep 30 09:51 : update: added Muse/Black Holes And Revelations/06 Invincible.mp3
+Sep 30 09:51 : update: added Muse/Black Holes And Revelations/04 Map Of The Problematique.mp3
+Sep 30 09:59 : client: [4] closed
+Sep 30 10:03 : client: [5] opened from 127.0.0.1:58114
+Sep 30 10:04 : client: [5] closed
+Sep 30 10:05 : client: [6] opened from 127.0.0.1:58152
+Sep 30 10:10 : client: [6] closed
+Sep 30 10:11 : client: [7] opened from 127.0.0.1:58248
+Sep 30 10:11 : client: [7] closed
+Sep 30 10:11 : client: [8] opened from 127.0.0.1:58250
+Sep 30 10:11 : client: [8] closed
+Sep 30 10:12 : client: [9] opened from 127.0.0.1:58252
+Sep 30 10:12 : client: [9] closed
+Sep 30 10:12 : client: [10] opened from 127.0.0.1:58254
+Sep 30 10:12 : client: [11] opened from 127.0.0.1:58256
+Sep 30 10:12 : client: [11] closed
+Sep 30 10:12 : client: [12] opened from 127.0.0.1:58258
+Sep 30 10:12 : client: [12] closed
+Sep 30 10:12 : client: [10] closed
+Sep 30 10:12 : client: [13] opened from 127.0.0.1:58262
+Sep 30 10:13 : client: [13] closed
+Sep 30 10:13 : client: [14] opened from 127.0.0.1:58264
+Sep 30 10:14 : client: [14] closed
+Sep 30 10:14 : client: [15] opened from 127.0.0.1:58286
+Sep 30 10:14 : client: [15] closed
+Sep 30 10:14 : client: [16] opened from 127.0.0.1:58290
+Sep 30 10:14 : client: [16] closed
+Sep 30 10:15 : client: [17] opened from 127.0.0.1:58296
+Sep 30 10:15 : client: [17] closed
+Sep 30 10:16 : client: [18] opened from 127.0.0.1:58302
+Sep 30 10:16 : client: [18] closed
+Sep 30 10:16 : client: [19] opened from 127.0.0.1:58304
+Sep 30 10:23 : client: [19] closed
+Sep 30 10:23 : client: [20] opened from 127.0.0.1:58456
+Sep 30 10:23 : client: [20] closed
+Sep 30 10:24 : client: [21] opened from 127.0.0.1:58458
+Sep 30 10:24 : client: [21] closed
+Sep 30 10:24 : client: [22] opened from 127.0.0.1:58482
+Sep 30 10:24 : client: [22] closed
+Sep 30 10:24 : client: [23] opened from 127.0.0.1:58484
+Sep 30 10:24 : client: [23] closed
+Sep 30 10:24 : client: [24] opened from 127.0.0.1:58488
+Sep 30 10:25 : client: [24] closed
+Sep 30 10:25 : client: [25] opened from 127.0.0.1:58496
+Sep 30 10:25 : client: [25] closed
+Sep 30 10:25 : client: [26] opened from 127.0.0.1:58498
+Sep 30 10:26 : client: [26] closed
+Sep 30 10:26 : client: [27] opened from 127.0.0.1:58500
+Sep 30 10:27 : client: [27] closed
+Sep 30 10:27 : client: [28] opened from 127.0.0.1:58502
+Sep 30 10:27 : client: [28] closed
+Sep 30 10:27 : client: [29] opened from 127.0.0.1:58506
+Sep 30 14:10 : client: [29] closed
+Sep 30 14:15 : client: [30] opened from 127.0.0.1:33042
+Oct 01 08:48 : client: [30] closed
+Oct 01 08:48 : avahi: Client Disconnected, will reconnect shortly
+Oct 01 08:48 : client: [0] closed
+Oct 01 08:48 : player: played "Alec Holowka/Lost Constellation/01 Longest Night.mp3"
+Oct 01 08:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 01 08:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 01 08:49 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Oct 01 08:54 : client: [0] opened from 127.0.0.1:48402
+Oct 01 09:35 : client: [1] opened from 127.0.0.1:49974
+Oct 01 09:35 : client: [1] closed
+Oct 01 09:35 : client: [2] opened from 127.0.0.1:49976
+Oct 01 09:35 : client: [2] closed
+Oct 01 09:35 : client: [3] opened from 127.0.0.1:49978
+Oct 01 09:35 : client: [3] closed
+Oct 01 09:35 : client: [4] opened from 127.0.0.1:49982
+Oct 01 09:35 : client: [4] closed
+Oct 01 09:35 : client: [5] opened from 127.0.0.1:49984
+Oct 01 09:35 : client: [5] closed
+Oct 01 09:35 : client: [6] opened from 127.0.0.1:49986
+Oct 01 09:35 : client: [6] closed
+Oct 01 09:35 : client: [7] opened from 127.0.0.1:49988
+Oct 01 09:35 : client: [7] closed
+Oct 01 09:35 : client: [8] opened from 127.0.0.1:49990
+Oct 01 09:35 : client: [8] closed
+Oct 01 09:35 : client: [9] opened from 127.0.0.1:49994
+Oct 01 09:35 : client: [9] closed
+Oct 01 09:35 : client: [10] opened from 127.0.0.1:49996
+Oct 01 09:36 : client: [11] opened from 127.0.0.1:50002
+Oct 01 09:36 : player: played "Alec Holowka/Lost Constellation/01 Longest Night.mp3"
+Oct 01 09:36 : client: [10] closed
+Oct 01 09:36 : client: [12] opened from 127.0.0.1:50004
+Oct 01 09:36 : client: [12] closed
+Oct 01 09:36 : client: [13] opened from 127.0.0.1:50006
+Oct 01 09:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 01 09:36 : client: [13] closed
+Oct 01 09:36 : client: [14] opened from 127.0.0.1:50008
+Oct 01 09:36 : client: [14] closed
+Oct 01 09:36 : client: [15] opened from 127.0.0.1:50010
+Oct 01 09:36 : client: [15] closed
+Oct 01 09:36 : client: [16] opened from 127.0.0.1:50012
+Oct 01 09:36 : client: [16] closed
+Oct 01 09:36 : client: [17] opened from 127.0.0.1:50014
+Oct 01 09:36 : client: [17] closed
+Oct 01 09:36 : client: [18] opened from 127.0.0.1:50018
+Oct 01 09:36 : client: [18] closed
+Oct 01 09:36 : client: [19] opened from 127.0.0.1:50020
+Oct 01 09:36 : client: [19] closed
+Oct 01 09:36 : client: [20] opened from 127.0.0.1:50022
+Oct 01 09:36 : client: [20] closed
+Oct 01 09:36 : client: [21] opened from 127.0.0.1:50024
+Oct 01 09:42 : client: [21] closed
+Oct 01 10:57 : player: played "David Peacock, Augustine Mayuga Gonzales/UNDERTALE Piano Collections/01 Fallen Down.mp3"
+Oct 01 13:47 : player: played "Muse/Black Holes And Revelations/01 Take A Bow.mp3"
+Oct 01 13:51 : player: played "Muse/Black Holes And Revelations/02 Starlight.mp3"
+Oct 01 13:55 : player: played "Muse/Black Holes And Revelations/03 Supermassive Black Hole.mp3"
+Oct 01 13:59 : player: played "Muse/Black Holes And Revelations/04 Map Of The Problematique.mp3"
+Oct 01 14:01 : player: played "Muse/Black Holes And Revelations/05 Soldier's Poem.mp3"
+Oct 01 14:06 : player: played "Muse/Black Holes And Revelations/06 Invincible.mp3"
+Oct 01 14:09 : player: played "Muse/Black Holes And Revelations/07 Assassin.mp3"
+Oct 01 14:13 : player: played "Muse/Black Holes And Revelations/08 Exo-Politics.mp3"
+Oct 01 14:18 : player: played "Muse/Black Holes And Revelations/09 City Of Delusion.mp3"
+Oct 01 14:22 : player: played "Muse/Black Holes And Revelations/10 Hoodoo.mp3"
+Oct 01 14:28 : player: played "Muse/Black Holes And Revelations/11 Knights Of Cydonia.mp3"
+Oct 01 14:36 : player: played "FINAL FANTASY VII/FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS/1-08 Acoustic 亡霊の悪戯 ～ グロウガイスト.mp3"
+Oct 01 14:37 : client: [11] closed
+Oct 01 14:37 : client: [22] opened from 127.0.0.1:58448
+Oct 01 14:42 : player: played "FINAL FANTASY VII/FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS/1-09 Acoustic J-E-N-O-V-A -胎動-.mp3"
+Oct 01 14:47 : player: played "FINAL FANTASY VII/FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS/1-10 Acoustic 片翼の天使 -再生-.mp3"
+Oct 01 14:47 : client: [22] closed
+Oct 01 14:47 : client: [23] opened from 127.0.0.1:58814
+Oct 01 14:47 : client: [23] closed
+Oct 01 14:51 : client: [24] opened from 127.0.0.1:58940
+Oct 01 14:52 : client: [24] closed
+Oct 01 14:52 : client: [25] opened from 127.0.0.1:58944
+Oct 01 14:52 : client: [25] closed
+Oct 01 14:52 : client: [26] opened from 127.0.0.1:58972
+Oct 01 14:52 : client: [26] closed
+Oct 01 14:52 : client: [27] opened from 127.0.0.1:58992
+Oct 01 14:53 : client: [27] closed
+Oct 01 14:53 : client: [28] opened from 127.0.0.1:59018
+Oct 01 14:54 : client: [28] closed
+Oct 01 14:54 : client: [29] opened from 127.0.0.1:59026
+Oct 01 14:54 : client: [29] closed
+Oct 01 14:54 : client: [30] opened from 127.0.0.1:59030
+Oct 01 14:57 : player: played "Alec Holowka/Lost Constellation/01 Longest Night.mp3"
+Oct 01 14:58 : client: [30] closed
+Oct 01 15:02 : avahi: Client Disconnected, will reconnect shortly
+Oct 04 08:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 04 08:37 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Oct 04 08:37 : client: [0] opened from 127.0.0.1:53350
+Oct 04 12:58 : client: [1] opened from 127.0.0.1:58256
+Oct 04 12:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 04 12:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 04 13:01 : player: played "Darkstar/Civic Jams/1-01 Forest.mp3"
+Oct 04 13:05 : player: played "Darkstar/Civic Jams/1-02 Jam.mp3"
+Oct 04 13:10 : player: played "Darkstar/Civic Jams/1-03 1001.mp3"
+Oct 04 13:13 : player: played "Darkstar/Civic Jams/1-04 30 (feat. Laura Groves).mp3"
+Oct 04 13:18 : player: played "Darkstar/Civic Jams/1-05 Wolf.mp3"
+Oct 04 13:22 : player: played "Darkstar/Civic Jams/1-06 Loon.mp3"
+Oct 04 13:27 : player: played "Darkstar/Civic Jams/1-07 Tuesday.mp3"
+Oct 04 13:33 : player: played "Darkstar/Civic Jams/1-08 Text.mp3"
+Oct 04 13:35 : player: played "Darkstar/Civic Jams/1-09 Blurred.mp3"
+Oct 04 13:38 : player: played "Emerson, Lake & Palmer/Tarkus/01 Tarkus - Eruption.mp3"
+Oct 04 13:42 : player: played "Emerson, Lake & Palmer/Tarkus/02 Tarkus - Stones Of Years.mp3"
+Oct 04 13:43 : player: played "Emerson, Lake & Palmer/Tarkus/03 Tarkus - Iconoclast.mp3"
+Oct 04 13:47 : player: played "Emerson, Lake & Palmer/Tarkus/04 Tarkus - Mass.mp3"
+Oct 04 13:48 : player: played "Emerson, Lake & Palmer/Tarkus/05 Tarkus - Manticore.mp3"
+Oct 04 13:52 : player: played "Emerson, Lake & Palmer/Tarkus/06 Tarkus - Battlefield.mp3"
+Oct 04 13:56 : player: played "Emerson, Lake & Palmer/Tarkus/07 Tarkus - Aquatarkus.mp3"
+Oct 04 13:58 : player: played "Emerson, Lake & Palmer/Tarkus/08 Jeremy Bender.mp3"
+Oct 04 14:02 : player: played "Emerson, Lake & Palmer/Tarkus/09 Bitches Crystal.mp3"
+Oct 04 14:03 : client: [1] closed
+Oct 04 14:03 : client: [2] opened from 127.0.0.1:59544
+Oct 04 14:03 : client: [2] closed
+Oct 04 14:03 : client: [3] opened from 127.0.0.1:59546
+Oct 04 14:05 : client: [3] closed
+Oct 04 14:06 : player: played "Emerson, Lake & Palmer/Tarkus/10 The Only Way.mp3"
+Oct 04 14:09 : client: [4] opened from 127.0.0.1:59696
+Oct 04 14:09 : player: played "Emerson, Lake & Palmer/Tarkus/11 Infinite Space.mp3"
+Oct 04 14:10 : client: [4] closed
+Oct 04 14:10 : client: [5] opened from 127.0.0.1:59714
+Oct 04 14:10 : client: [5] closed
+Oct 04 14:10 : client: [6] opened from 127.0.0.1:59718
+Oct 04 14:11 : client: [6] closed
+Oct 04 14:11 : client: [7] opened from 127.0.0.1:59720
+Oct 04 14:12 : client: [7] closed
+Oct 04 14:12 : client: [8] opened from 127.0.0.1:59724
+Oct 04 14:12 : player: played "Emerson, Lake & Palmer/Tarkus/12 A Time And A Place.mp3"
+Oct 04 14:13 : client: [8] closed
+Oct 04 14:13 : client: [9] opened from 127.0.0.1:59726
+Oct 04 14:13 : client: [9] closed
+Oct 04 14:13 : client: [10] opened from 127.0.0.1:59728
+Oct 04 14:14 : client: [10] closed
+Oct 04 14:14 : client: [11] opened from 127.0.0.1:59730
+Oct 04 14:15 : player: played "Emerson, Lake & Palmer/Tarkus/13 Are You Ready Eddy .mp3"
+Oct 04 14:17 : player: played "Emerson, Lake & Palmer/Pictures At An Exhibition/01 Promenade.mp3"
+Oct 04 14:21 : player: played "Emerson, Lake & Palmer/Pictures At An Exhibition/02 The Gnome.mp3"
+Oct 04 14:22 : client: [11] closed
+Oct 04 14:23 : client: [12] opened from 127.0.0.1:59806
+Oct 04 14:23 : player: played "Emerson, Lake & Palmer/Pictures At An Exhibition/03 Promenade (2).mp3"
+Oct 04 14:28 : player: played "Emerson, Lake & Palmer/Pictures At An Exhibition/04 The Sage.mp3"
+Oct 04 14:30 : player: played "Emerson, Lake & Palmer/Pictures At An Exhibition/05 The Old Castle.mp3"
+Oct 04 14:34 : player: played "Emerson, Lake & Palmer/Pictures At An Exhibition/06 Blues Variation.mp3"
+Oct 04 14:36 : player: played "Emerson, Lake & Palmer/Pictures At An Exhibition/07 Promenade (3).mp3"
+Oct 04 14:37 : player: played "Emerson, Lake & Palmer/Pictures At An Exhibition/08 The Hut of Baba Yaga.mp3"
+Oct 04 14:41 : player: played "Emerson, Lake & Palmer/Pictures At An Exhibition/09 The Curse of Baba Yaga.mp3"
+Oct 04 14:42 : player: played "Emerson, Lake & Palmer/Pictures At An Exhibition/10 The Hut of Baba Yaga (2).mp3"
+Oct 04 14:49 : player: played "Emerson, Lake & Palmer/Pictures At An Exhibition/11 The Great Gates of Kiev - The End.mp3"
+Oct 04 14:53 : player: played "Emerson, Lake & Palmer/Pictures At An Exhibition/12 Nutrocker.mp3"
+Oct 06 13:23 : client: [12] closed
+Oct 06 13:28 : client: [13] opened from 127.0.0.1:45270
+Oct 06 13:28 : client: [13] closed
+Oct 06 13:29 : client: [14] opened from 127.0.0.1:45272
+Oct 06 13:30 : client: [14] closed
+Oct 06 13:30 : client: [15] opened from 127.0.0.1:45302
+Oct 06 13:30 : player: played "Alec Holowka/Lost Constellation/01 Longest Night.mp3"
+Oct 06 14:48 : client: [15] closed
+Oct 22 15:03 : avahi: Client Disconnected, will reconnect shortly
+Oct 22 15:03 : client: [0] closed
+Oct 25 08:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 25 08:32 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Oct 25 08:33 : client: [0] opened from 127.0.0.1:38468
+Oct 29 21:45 : avahi: Client Disconnected, will reconnect shortly
+Oct 29 21:45 : client: [0] closed
+Nov 02 08:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 02 08:35 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 02 08:35 : client: [0] opened from 127.0.0.1:41214
+Nov 05 14:59 : avahi: Client Disconnected, will reconnect shortly
+Nov 08 08:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 08:36 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 08 08:36 : client: [0] opened from 127.0.0.1:47766
+Nov 08 12:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 12:50 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 08 12:50 : client: [0] opened from 127.0.0.1:39178
+Nov 09 14:12 : client: [1] opened from 127.0.0.1:47562
+Nov 09 14:12 : client: [1] closed
+Nov 09 15:02 : avahi: Client Disconnected, will reconnect shortly
+Nov 10 09:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 09:03 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 10 09:03 : client: [0] opened from 127.0.0.1:40618
+Nov 10 09:05 : client: [0] closed
+Nov 10 09:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 09:05 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 10 10:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 10:22 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 10 10:22 : client: [0] opened from 127.0.0.1:42818
+Nov 10 12:52 : client: [0] closed
+Nov 10 12:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 12:56 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 10 12:56 : client: [0] opened from 127.0.0.1:45060
+Nov 11 08:48 : avahi: Client Disconnected, will reconnect shortly
+Nov 11 08:48 : client: [0] closed
+Nov 11 08:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 11 08:49 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 11 08:49 : client: [0] opened from 127.0.0.1:45058
+Nov 11 10:21 : client: [0] closed
+Nov 11 10:22 : client: [1] opened from 127.0.0.1:46736
+Nov 11 10:22 : client: [1] closed
+Nov 11 10:22 : client: [2] opened from 127.0.0.1:46738
+Nov 11 10:22 : client: [2] closed
+Nov 11 10:22 : client: [3] opened from 127.0.0.1:46740
+Nov 11 10:23 : client: [3] closed
+Nov 11 10:23 : client: [4] opened from 127.0.0.1:46742
+Nov 11 10:23 : client: [4] closed
+Nov 11 10:25 : client: [5] opened from 127.0.0.1:46898
+Nov 15 15:00 : avahi: Client Disconnected, will reconnect shortly
+Nov 16 09:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 16 09:00 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 16 09:24 : client: [0] opened from 127.0.0.1:41384
+Nov 16 13:23 : client: [0] closed
+Nov 16 13:25 : client: [1] opened from 127.0.0.1:44782
+Nov 16 13:32 : client: [1] closed
+Nov 16 13:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 16 13:32 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 17 09:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 09:08 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 17 09:33 : client: [0] opened from 127.0.0.1:32886
+Nov 17 12:29 : client: [0] closed
+Nov 17 12:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 12:29 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 17 13:35 : client: [0] opened from 127.0.0.1:38334
+Nov 17 13:35 : client: [0] closed
+Nov 17 15:02 : avahi: Client Disconnected, will reconnect shortly
+Nov 18 09:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 18 09:01 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 18 09:01 : client: [0] opened from 127.0.0.1:52574
+Nov 18 12:34 : client: [0] closed
+Nov 18 13:19 : avahi: Client Disconnected, will reconnect shortly
+Nov 18 13:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 18 13:19 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 18 14:36 : avahi: Client Disconnected, will reconnect shortly
+Nov 19 08:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 19 08:43 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 19 08:43 : client: [0] opened from 127.0.0.1:38798
+Nov 19 13:32 : client: [0] closed
+Nov 19 14:59 : avahi: Client Disconnected, will reconnect shortly
+Nov 22 09:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 09:01 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Nov 22 09:01 : client: [0] opened from 127.0.0.1:48630
+Nov 30 14:59 : avahi: Client Disconnected, will reconnect shortly
+Nov 30 14:59 : client: [0] closed
+Dec 01 08:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 08:41 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Dec 02 08:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 08:55 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Dec 02 14:12 : client: [0] opened from 127.0.0.1:47368
+Dec 02 14:14 : client: [1] opened from 127.0.0.1:47392
+Dec 02 14:21 : client: [0] closed
+Dec 02 14:21 : client: [1] closed
+Dec 02 15:03 : avahi: Client Disconnected, will reconnect shortly
+Dec 03 08:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 08:54 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Dec 03 15:00 : avahi: Client Disconnected, will reconnect shortly
+Dec 13 08:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 13 08:34 : avahi: Service 'Music Player @ peter-UX430UA' successfully established.
+Dec 13 09:36 : client: [0] opened from 127.0.0.1:36464
+Dec 13 09:36 : client: [0] closed
+Dec 13 10:25 : client: [1] opened from 127.0.0.1:36970
+Dec 13 10:25 : client: [1] closed
+Dec 13 10:25 : client: [2] opened from 127.0.0.1:36974
+Dec 13 10:25 : client: [2] closed

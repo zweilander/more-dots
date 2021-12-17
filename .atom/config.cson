@@ -1,0 +1,19 @@
+"*":
+  core:
+    disabledPackages: [
+      "fonts"
+    ]
+    telemetryConsent: "limited"
+  editor:
+    fontFamily: "Iosevka, Menlo, Consolas, DejaVu Sans Mono, monospace"
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "ffee5cba-02b3-472a-8339-ee13b4dc232c"
+  fonts:
+    fontFamily: "Iosevka"
+  minimap:
+    plugins:
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  welcome:
+    showOnStartup: false

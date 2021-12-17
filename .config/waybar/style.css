@@ -1,0 +1,115 @@
+* {
+  border: none;
+  font-family: Iosevka;
+  font-size: 16px;
+}
+
+
+window#waybar {
+  background-color: rgba(0, 0, 0, 0);
+  /* border: 1px solid #61afef; */
+  color: #abb2bf;
+  transition-property: background-color;
+  transition-duration: .5s;
+  border-radius: 10px;
+}
+
+window#waybar.hidden {
+  opacity: 0.2;
+}
+
+#custom-separator {
+  color: @g_blue;
+  margin: 10px;
+}
+
+#cpu,
+#pulseaudio.1,
+#pulseaudio.2,
+#network,
+#battery,
+#clock {
+  background-color: @g_light_blue;
+  color: @g_black;
+  padding: 0 10px;
+  margin: 0 4px;
+  /* border: 3px solid rgba(0, 0, 0, 0); */
+  border-radius: 10px;
+  background-clip: padding-box;
+}
+
+#workspaces {
+  background-color: @g_light_blue;
+  color: @g_black;
+  margin: 2px;
+  border-radius: 10px;
+  background-clip: padding-box;
+  padding: 0;
+}
+
+#taskbar,
+#tray {
+  background-color: rgba(0, 0, 0, 0);
+  color: @g_white;
+  margin: 2px;
+  border-radius: 90px;
+  background-clip: padding-box;
+  padding: 15px 0;
+}
+
+
+#workspaces button {
+  padding: 0 5px;
+  min-width: 20px;
+  color: @g_black;
+}
+
+#workspaces button:hover {
+  background-color: rgba(0, 0, 0, 0.2)
+}
+
+#workspaces button.active {
+  background-color: @g_white;
+}
+
+#workspaces button.focused {
+  background-color: @g_green;
+}
+
+#workspaces button.urgent {
+  background-color: @g_red;
+}
+
+#pulseaudio.1.muted {
+  background-color: @g_red;
+}
+
+#pulseaudio.2 {
+  background-color: @g_red;
+}
+
+
+#network.disconnected {
+    background-color: @g_red;
+}
+
+
+#battery.charging, #battery.plugged {
+  background-color: @g_green;
+}
+
+#battery.critical:not(.charging) {
+    background-color: @g_green;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes blink {
+    to {
+        background-color: @g_black;
+        color: #fb7c7c;
+    }
+}

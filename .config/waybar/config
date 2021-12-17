@@ -1,0 +1,131 @@
+[
+  {
+    "name" : "sidebar",
+    "position" : "left",
+    "layer" : "top",
+    "width" : 54,
+    "margin" : "20 0 3 3",
+    "modules-center" : ["wlr/taskbar"],
+    "modules-right" : ["tray"],
+
+    "wlr/taskbar" : {
+      "format": "{icon}",
+      "icon-size": 35,
+      "icon-theme": "Papirus",
+      "tooltip-format": "{title}\n<small>{app_id}</small>",
+      "on-click": "activate",
+      "on-click-middle": "close"
+    },
+
+    "tray" : {
+      "icon-size": 15,
+      "spacing": 10
+    }
+  },
+
+  { // Comments...
+    "name" : "topbar",
+    "position" : "top",
+    "layer" : "top",
+    "height" : 41,
+    "margin" : "3 3 0 3",
+    "modules-left" : ["sway/workspaces"],
+    "modules-center" : [],
+    "modules-right" : ["pulseaudio#1", "pulseaudio#2", "custom/separator", "network", "cpu", "battery", "custom/separator", "clock"],
+
+    "sway/workspaces": {
+      "disable-scroll": true,
+      "active_only": false,
+      "format": "<big><big><big>{icon}</big></big></big>",
+      "format-icons": {
+        "1": "", // desktop
+        "2": "", // terminal
+        "3": "",  // firefox
+        "4": "",  // vim
+        "5": "ﭮ/",  // social
+        "6": "",  // steam
+        "7": "",  // files
+        "8": "", // atom
+        "9": "兀", // video
+        "10": "ﱘ", // music
+        "default": ""
+      },
+      "persistent_workspaces": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": []
+      }
+    },
+
+    "clock": {
+      "tooltip-format": "<big>\t{:%Y %B}</big>\n\n<tt><big>{calendar}</big></tt>",
+      "format": "{:%H:%M} <big><big></big></big>",
+      "format-alt": "{:%A, %B %d, %Y} <big></big>"
+    },
+
+    "pulseaudio#1": {
+      "format": "{volume}% <big><big>{icon}</big></big>",
+      "format-muted": "{volume}% <big><big></big></big>",
+      "format-bluetooth": "{volume}% <big><big>{icon} </big></big>",
+      "format-bluetooth-muted": "{volume}% <big><big> </big></big>",
+      "format-icons": {
+          "headphone": "",
+          "hands-free": "",
+          "headset": "",
+          "phone": "",
+          "portable": "",
+          "car": "",
+          "default": ["", "", ""]
+      },
+
+      "tooltip-format": "{desc}, {volume}%",
+      "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
+      "on-click-right": "pavucontrol"
+    },
+
+    "pulseaudio#2": {
+      "format": "<big><big>{format_source}</big></big>",
+      "format-source": "",
+      "format-source-muted": ""
+    },
+
+    "network": {
+        "format-wifi": "<big><big>直</big></big>",
+        "format-ethernet": "{ifname}: {ipaddr}/{cidr} <big></big> ",
+        "format-linked": "{ifname} (No IP) <big></big> ",
+        "format-disconnected": "<big>睊</big>",
+        "format-alt": "{ifname}: {ipaddr}/{cidr}",
+        "tooltip-format": "{essid} {signalStrength}%"
+    },
+
+    "cpu": {
+      "format": "{usage}% <big><big></big></big>",
+      "tooltip": false
+    },
+
+    "battery": {
+      "states": {
+          "warning": 30,
+          "critical": 15
+      },
+      "format": "{icon} {capacity}%",
+      "tooltip-format": "{timeTo}, {capacity}%",
+      "format-charging": " {capacity}%",
+      "format-plugged": " ",
+      "format-alt": "{time} {icon}",
+      "format-icons": ["", "", "", "", ""]
+    },
+
+    "custom/separator": {
+      "format": "",
+      "tooltip": false
+    }
+  }
+]

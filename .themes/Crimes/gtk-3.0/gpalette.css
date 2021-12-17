@@ -1,0 +1,33 @@
+/* Custom palette to append to a GTK theme to be used by other programs */
+
+/*
+The names are orientative and follow the Linux terminal nomenclature
+They do not need to match the color perfectly and can (and should) be tweaked
+to achieve the desired result.
+*/
+
+/* Text and background are usually defined on the main theme so they may not
+be needed here
+
+@define-color g_text #5cfefe;
+@define-color g_bg #0a212d;
+*/
+
+
+@define-color g_black #0E2F40;
+@define-color g_red #D43A3A;
+@define-color g_green #48CF61;
+@define-color g_orange #D7884A;
+@define-color g_blue #177488;
+@define-color g_magenta #D65D6D;
+@define-color g_cyan #4AD4D4;
+@define-color g_light_gray #C7E4E4;
+
+@define-color g_dark_gray #133A4E;
+@define-color g_light_red #F94646;
+@define-color g_light_green #57F775;
+@define-color g_yellow #F79D57;
+@define-color g_light_blue #1D89A1;
+@define-color g_light_purple #FE7083;
+@define-color g_teal #5CFEFE;
+@define-color g_white #DBFBFB;
