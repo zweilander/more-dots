@@ -66,3 +66,4 @@ window:
     y: 10
   dynamic_padding: true
   opacity: 0.7
+  decorations: none
