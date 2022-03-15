@@ -1,17 +1,17 @@
-"                                 ___     
-"        ___        ___          /__/\    
-"       /__/\      /  /\        |  |::\   
-"       \  \:\    /  /:/        |  |:|:\  
-"        \  \:\  /__/::\      __|__|:|\:\ 
-"    ___  \__\:\ \__\/\:\__  /__/::::| \:\
-"   /__/\ |  |:|    \  \:\/\ \  \:\~~\__\/
-"   \  \:\|  |:|     \__\::/  \  \:\      
-"    \  \:\__|:|     /__/:/    \  \:\     
-"     \__\::::/      \__\/      \  \:\    
-"         ~~~~                   \__\/    
+"
+"             ___           ___                                                    ___     
+"            /__/\         /  /\          _____           ___        ___          /__/\    
+"            \  \:\       /  /:/         /  /::\         /__/\      /  /\        |  |::\   
+"             \  \:\     /  /:/         /  /:__:\        \  \:\    /  /:/        |  |:|:\  
+"        ______\_ \:\   /  /:/~/\      /__/:/\ \:\        \  \:\  /__/::\      __|__|:|\:\ 
+"       /__/:::::::::\ /__/:/ /_/~/\  |  |:|  | |:|   ___  \__\:\ \__\/\:\__  /__/::::| \:\
+"       \  \:\~~~~___/ \  \:\/:/ /:/  |__|:|~~| |:|  /__/\ |  |:|    \  \:\/\ \  \:\~~\__\/
+"        \  \:\         \  \::/ /:/    \  \:\__/:/   \  \:\|  |:|     \__\::/  \  \:\      
+"         \  \:\         \  \:\/:/      \  \::::/     \  \:\__|:|     /__/:/    \  \:\     
+"          \  \:\         \  \::/        \__\__/       \__\::::/      \__\/      \  \:\    
+"           \__\/          \__\/                           ~~~~                   \__\/    
+"
 
- " Set compatibility to Vim only.
-set nocompatible
 
 "Always show current position
 set ruler
@@ -62,7 +62,8 @@ set matchpairs+=<:>
 
 " Show line numbers
 set number
-highlight LineNr ctermfg=black
+set numberwidth=6
+highlight LineNr ctermfg=grey
 
 " Set status line display
 set laststatus=2
@@ -73,6 +74,8 @@ hi User2 ctermfg=NONE ctermbg=NONE
 hi User3 ctermfg=black ctermbg=blue
 hi User4 ctermfg=black ctermbg=cyan
 set statusline=\                    " Padding
+set statusline+=%m                  " if file has been modified
+set statusline+=\                   " Padding
 set statusline+=%f                  " Path to the file
 set statusline+=\ %1*\              " Padding & switch colour
 set statusline+=%y                  " File type
