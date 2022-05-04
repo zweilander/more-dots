@@ -4,46 +4,35 @@
 
 mpd_host = localhost
 mpd_port = 6667
-mpd_music_dir = ~/Music
 mpd_crossfade_time = 2
-volume_change_step = 2
-autocenter_mode = yes
-allow_for_physical_item_deletion = no
-screen_switcher_mode = playlist, media_library
-enable_window_title = yes
+mpd_music_dir = ~/Music
+ncmpcpp_directory = ~/.config/ncmpcpp
 external_editor = nvim
 use_console_editor = yes
-generate_win32_compatible_filenames = yes
-user_interface = classic
+
+screen_switcher_mode = playlist, media_library
+enable_window_title = yes
+
+volume_change_step = 2
+autocenter_mode = yes
+centered_cursor = yes
+
+lines_scrolled = 2
 mouse_support = yes
 mouse_list_scroll_whole_page = yes
-lines_scrolled = 2
-centered_cursor = yes
 cyclic_scrolling = no
-clock_display_seconds = no
+
+allow_for_physical_item_deletion = no
+generate_win32_compatible_filenames = yes
 show_hidden_files_in_local_browser = no
-ncmpcpp_directory = ~/.config/ncmpcpp
+
+clock_display_seconds = no
+
 
 #system_encoding = ""
 #lastfm_preferred_language = en
 #regular_expressions = perl
 #block_search_constraints_change_if_items_found = yes
-
-
-
-##################
-### Visualizer ###
-##################
-
-visualizer_fifo_path = /tmp/mpd.fifo
-visualizer_output_name = "Visualizer feed"
-visualizer_in_stereo = yes
-visualizer_sync_interval = 30
-visualizer_type = spectrum
-visualizer_look = ●┃
-visualizer_color = cyan, green, yellow, magenta, red
-#visualizer_color = 41, 83, 119, 155, 185, 215, 209, 203, 197, 161
-#visualizer_sample_multiplier = 1
 
 
 
@@ -59,6 +48,7 @@ current_item_suffix = "$/r$(end)"
 now_playing_prefix = "$6"
 now_playing_suffix = "$/b$9"
 
+
 #browser_playlist_prefix = "$2playlist$9 "
 #selected_item_prefix = $6
 #selected_item_suffix = $9
@@ -72,11 +62,57 @@ now_playing_suffix = "$/b$9"
 
 
 
+###############
+### Top Bar ###
+###############
+
+user_interface = alternative
+header_visibility = no
+display_volume_level = yes
+statusbar_color = default
+
+
+#display_bitrate = no
+#display_remaining_time = no
+#header_text_scrolling = yes
+
+
+
+##################
+### Bottom Bar ###
+##################
+
+progressbar_look = "▄▄▄"
+progressbar_color = black
+progressbar_elapsed_color = magenta
+statusbar_visibility = no
+
+
+
+##################
+### Visualizer ###
+##################
+
+visualizer_fifo_path = /tmp/mpd.fifo
+visualizer_output_name = "Visualizer feed"
+visualizer_in_stereo = yes
+visualizer_sync_interval = 30
+visualizer_type = spectrum
+visualizer_look = ●┃
+visualizer_color = cyan, green, yellow, magenta, red
+
+
+#visualizer_color = 41, 83, 119, 155, 185, 215, 209, 203, 197, 161
+#visualizer_sample_multiplier = 1
+
+
+
 ################
 ### Playlist ###
 ################
 
 playlist_display_mode = classic
+
 
 #ask_before_clearing_playlists = yes
 #playlist_show_mpd_host = no
@@ -89,27 +125,6 @@ playlist_display_mode = classic
 #discard_colors_if_item_is_selected = yes
 #incremental_seeking = yes
 #seek_time = 1
-
-
-
-####################
-### Progress Bar ###
-####################
-
-progressbar_look = "▄▄▄"
-progressbar_color = black
-progressbar_elapsed_color = magenta
-progressbar_boldness = yes
-
-
-
-##############
-### Delays ###
-##############
-
-#playlist_disable_highlight_delay = 5
-#message_delay_time = 5
-#data_fetching_delay = yes
 
 
 
@@ -135,47 +150,6 @@ current_item_inactive_column_suffix = "$/r$(end)"
 
 
 ###############
-### Top Bar ###
-###############
-
-header_visibility = yes
-statusbar_visibility = no
-titles_visibility = no
-display_volume_level = yes
-statusbar_color = default
-
-#display_bitrate = no
-#display_remaining_time = no
-#header_text_scrolling = yes
-
-
-
-###############
-### Library ###
-###############
-
-media_library_primary_tag = album_artist
-
-#default_find_mode = wrapped
-#default_tag_editor_pattern = %n - %t
-#default_place_to_search_in = database
-#media_library_sort_by_mtime = no
-
-
-
-###############
-### Lyrics ###
-###############
-
-follow_now_playing_lyrics = no
-
-#lyrics_directory = ~/.lyrics
-#fetch_lyrics_for_current_song_in_background = no
-#store_lyrics_in_song_dir = no
-
-
-
-###############
 ### Startup ###
 ###############
 
@@ -188,6 +162,21 @@ startup_screen = playlist
 #jump_to_now_playing_song_at_start = yes
 
 
+###############
+### Library ###
+###############
+
+media_library_primary_tag = album_artist
+titles_visibility = yes
+
+
+#default_find_mode = wrapped
+#default_tag_editor_pattern = %n - %t
+#default_place_to_search_in = database
+#media_library_sort_by_mtime = no
+
+
+
 
 ############
 ### Tags ###
@@ -196,6 +185,29 @@ startup_screen = playlist
 #empty_tag_marker = <empty>
 #tags_separator = " | "
 #tag_editor_extended_numeration = no
+
+
+
+###############
+### Lyrics ###
+###############
+
+follow_now_playing_lyrics = no
+
+
+#lyrics_directory = ~/.lyrics
+#fetch_lyrics_for_current_song_in_background = no
+#store_lyrics_in_song_dir = no
+
+
+
+##############
+### Delays ###
+##############
+
+#playlist_disable_highlight_delay = 5
+#message_delay_time = 5
+#data_fetching_delay = yes
 
 
 
