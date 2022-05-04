@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/peter/.oh-my-zsh"
+export ZSH=~/.oh-my-zsh
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -106,9 +106,17 @@ source $ZSH/oh-my-zsh.sh
 export MPD_PORT=6667
 
 # Custom aliases
-alias minip="ncmpcpp -c ~/.ncmpcpp/config-minimal"
 alias neof="echo;echo;echo;neofetch;echo"
 alias rip="curl http://http.rip -sS | xmllint -html --xpath "//body" -"
+
+alias minplayer="ncmpcpp -c ~/.config/ncmpcpp/config-minimal"
+ncplayer() { 
+    # Set new size for the terminal window <rows;columns>
+    printf '\e[8;30;120t\'
+    ncmpcpp -c ~/.config/ncmpcpp/config
+}
+
+
 
 export PATH=$PATH:/home/peter/.local/bin
 eval $(thefuck --alias)
