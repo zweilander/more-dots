@@ -118,5 +118,5 @@ ncplayer() {
 
 
 
-export PATH=$PATH:/home/peter/.local/bin
+export PATH=$PATH:~/.local/bin
 eval $(thefuck --alias)
