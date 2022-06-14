@@ -27,7 +27,7 @@ lvim.keys.normal_mode["<C-s>"] = ":w<cr>"
 
 -- Change Telescope navigation to use j and k for navigation and n and p for history in both input and normal mode.
 -- we use protected-mode (pcall) just in case the plugin wasn't loaded yet.
--- local _, actions = pcall(require, "telescope.actions")
+-- local _, actions = pcall,(require, "telescope.actions")
 -- lvim.builtin.telescope.defaults.mappings = {
 --   -- for input mode
 --   i = {
@@ -142,54 +142,65 @@ lvim.builtin.treesitter.highlight.enabled = true
 
 -- Additional Plugins
 lvim.plugins = {
-    {'shaunsingh/nord.nvim'},
---     {
---       "folke/trouble.nvim",
---       cmd = "TroubleToggle",
---     },
-{
-  'wfxr/minimap.vim',
-  config = function ()
-    vim.cmd ("let g:minimap_width = 10")
-    vim.cmd ("let g:minimap_auto_start = 1")
-    vim.cmd ("let g:minimap_auto_start_win_enter = 1")
-  end,
-},
-{
-  "lukas-reineke/indent-blankline.nvim",
-  event = "BufRead",
-  setup = function()
-    vim.g.indentLine_enabled = 1
-    vim.g.indent_blankline_char = "▏"
-    vim.g.indent_blankline_filetype_exclude = {"help", "terminal", "dashboard"}
-    vim.g.indent_blankline_buftype_exclude = {"terminal"}
-    vim.g.indent_blankline_show_trailing_blankline_indent = false
-    vim.g.indent_blankline_show_first_indent_level = false
-  end
-},
-{
-  "iamcco/markdown-preview.nvim",
-  ft = "markdown",
-  config = function()
-    vim.g.mkdp_auto_start = 1
-  end,
-},
-{
-  "norcalli/nvim-colorizer.lua",
+  { 'shaunsingh/nord.nvim' },
+  --     {
+  --       "folke/trouble.nvim",
+  --       cmd = "TroubleToggle",
+  --     },
+  {
+    'wfxr/minimap.vim',
+    config = function()
+      vim.cmd("let g:minimap_width = 10")
+      vim.cmd("let g:minimap_auto_start = 1")
+      vim.cmd("let g:minimap_auto_start_win_enter = 1")
+    end,
+  },
+  {
+    "lukas-reineke/indent-blankline.nvim",
+    event = "BufRead",
+    setup = function()
+      vim.g.indentLine_enabled = 1
+      vim.g.indent_blankline_char = "▏"
+      vim.g.indent_blankline_filetype_exclude = { "help", "terminal", "dashboard", "alpha" }
+      vim.g.indent_blankline_buftype_exclude = { "terminal" }
+      vim.g.indent_blankline_show_trailing_blankline_indent = false
+      vim.g.indent_blankline_show_first_indent_level = false
+    end
+  },
+  {
+    "iamcco/markdown-preview.nvim",
+    ft = "markdown",
+    config = function()
+      vim.g.mkdp_auto_start = 1
+    end,
+  },
+  {
+    "norcalli/nvim-colorizer.lua",
     config = function()
       require("colorizer").setup({ "*" }, {
-          RGB = true, -- #RGB hex codes
-          RRGGBB = true, -- #RRGGBB hex codes
-          RRGGBBAA = true, -- #RRGGBBAA hex codes
-          rgb_fn = true, -- CSS rgb() and rgba() functions
-          hsl_fn = true, -- CSS hsl() and hsla() functions
-          css = true, -- Enable all CSS features: rgb_fn, hsl_fn, names, RGB, RRGGBB
-          css_fn = true, -- Enable all CSS *functions*: rgb_fn, hsl_fn
-          })
-  end,
-},
-
+        RGB = true, -- #RGB hex codes
+        RRGGBB = true, -- #RRGGBB hex codes
+        RRGGBBAA = true, -- #RRGGBBAA hex codes
+        rgb_fn = true, -- CSS rgb() and rgba() functions
+        hsl_fn = true, -- CSS hsl() and hsla() functions
+        css = true, -- Enable all CSS features: rgb_fn, hsl_fn, names, RGB, RRGGBB
+        css_fn = true, -- Enable all CSS *functions*: rgb_fn, hsl_fn
+      })
+    end,
+  },
+  -- {
+  --   "ahmedkhalf/project.nvim",
+  --   config = function()
+  --     require("project_nvim").setup {
+  --       patterns = { "_root", ".git", "_darcs", ".hg", ".bzr", ".svn", "Makefile", "package.json" },
+  --       -- your configuration comes here
+  --       -- or leave it empty to use the default settings
+  --       -- refer to the configuration section below
+  --     }
+  --   end
+  -- },
 }
+
 
 -- lvim.transparent_window = true
 
@@ -198,8 +209,13 @@ lvim.plugins = {
 --   { "BufWinEnter", "*.lua", "setlocal ts=8 sw=8" },
 -- }
 
-local dash = require('dash')
+-- local dash = require('dash')
+local header = io.input('.config/lvim/lua/header'):read("*a")
 
-lvim.builtin.alpha.dashboard.section.header = dash.get_sections().header
+lvim.builtin.alpha.dashboard.section.header.val = header
 -- lvim.builtin.alpha.dashboard.section.buttons = dash.get_sections().buttons
 -- lvim.builtin.alpha.dashboard.section.footer = dash.get_sections().footer
+
+
+lvim.builtin.project.patterns = { "_root", ".git", "_darcs", ".hg", ".bzr", ".svn", "Makefile", "package.json" }
+lvim.builtin.project.active = true
